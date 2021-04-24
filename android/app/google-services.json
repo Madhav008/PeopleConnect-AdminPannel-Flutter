@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "955792927516",
+    "project_id": "peopleconnect-c401b",
+    "storage_bucket": "peopleconnect-c401b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955792927516:android:eb03a32ca4a66d83aaa8d9",
+        "android_client_info": {
+          "package_name": "com.example.vaibhav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955792927516-ikb8o8l8u06s9jg7014jd7qu8b67l142.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcc07NrSlu7oZqjIRA5AY52FdbBJzFf4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955792927516-ikb8o8l8u06s9jg7014jd7qu8b67l142.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955792927516:android:b37dd354e42b8652aaa8d9",
+        "android_client_info": {
+          "package_name": "com.sky.peoples_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955792927516-ikb8o8l8u06s9jg7014jd7qu8b67l142.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcc07NrSlu7oZqjIRA5AY52FdbBJzFf4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955792927516-ikb8o8l8u06s9jg7014jd7qu8b67l142.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
